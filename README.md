@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="cover.png" alt="MERN Stack Developer Banner" width="100%">
+</p>
+
+
 Trustcare Connect-Baby Sitting & Elderly Care Service Platform.
 
 📌 Project Purpose
